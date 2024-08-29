@@ -199,7 +199,7 @@ else:
     print(f"没有图片相似度超过0.8，最高的相似度为{round(top_similarities[0], 3)}")
 
 ## 运行效果展示
-(https://github.com/yrobsin/yolov8/blob/22c5486615179872c2bfb9a9b22489c99a86e728/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240829122417.png)
+![运行效果展示](.assets/微信图片_20240829122417.png)
 
 
 
