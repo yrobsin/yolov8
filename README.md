@@ -200,6 +200,7 @@ else:
 
 ## 运行效果展示
 <img width="392" alt="b5517393d150eedac8a5b647355bbd8" src="https://github.com/user-attachments/assets/55719298-995a-4491-ad2b-2c6fd365b2f9">
+<img width="392" alt="b5517393d150eedac8a5b647355bbd8" src="https://github.com/user-attachments/assets/3089c5a1-8563-4228-aa57-e6c36f2f9016">
 
 
 
