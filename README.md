@@ -201,6 +201,5 @@ else:
 ## 运行效果展示
 <img width="392" alt="b5517393d150eedac8a5b647355bbd8" src="https://github.com/user-attachments/assets/55719298-995a-4491-ad2b-2c6fd365b2f9">
 
-下图展示了使用 YOLOv8 进行服装图像分割和相似度对比的效果：
-<img width="392" alt="b5517393d150eedac8a5b647355bbd8" src="https://github.com/user-attachments/assets/28d536ec-aebe-4972-8042-e0a4b8d63543">
+
 
